@@ -1,0 +1,11 @@
+starter\Produk\GetAllProduct.class
+starter\stepdefinition\MyStepdefs.class
+starter\Authentication\GetUserInformation.class
+starter\Authentication\Register.class
+starter\CucumberTestSuite.class
+starter\Produk\AssignProductRating.class
+starter\Produk\CreateNewProduct.class
+starter\Produk\DelProduct.class
+starter\Produk\GetProductRatinng.class
+starter\Authentication\Login.class
+starter\Produk\ProductByID.class

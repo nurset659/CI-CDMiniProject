@@ -17,7 +17,7 @@ public class ProductByID {
         SerenityRest.given().get(ProductByIdEnpoint());
     }
 
-    @Step("system responds with the status code 200 OK")
+    @Step("system responds with the statuscode 200 OK")
     public void succesGetProductByID(){
         restAssuredThat(response -> response.statusCode(200));
     }
